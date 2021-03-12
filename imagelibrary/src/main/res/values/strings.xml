@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ImageLibrary</string>
+
+    <string name="btn_filter"> Filter</string>
+    <string name="btn_save"> Save </string>
+
+    <string name="btn_internal"> Built-in</string>
+
+    <!-- Crop page button -->
+    <string name="btn_horizontal"> Level</string>
+    <string name="btn_ratio"> Aspect ratio</string>
+    <string name="btn_rotate"> Rotate </string>
+    <string name="btn_flip"> Flip </string>
+    <string name="btn_vertical_perspective"> Vertical perspective</string>
+    <string name="btn_horizontal_perspective"> Horizontal perspective</string>
+    <string name="btn_stretch"> Stretch </string>
+
+    <!-- Edit Toolbox button -->
+    <string name="btn_toolbox_back"> Return</string>
+    <string name="btn_adjust"> Adjustment </string>
+    <string name="btn_effect"> Effect </string>
+    <string name="btn_texture"> Texture </string>
+    <string name="btn_blur"> Blur </string>
+    <string name="btn_curve"> Curve </string>
+    <string name="btn_hue_saturation"> Hue/Saturation </string>
+    <string name="btn_tone_separation"> Tone separation </string>
+    <string name="btn_color_balance"> Color balance </string>
+</resources>

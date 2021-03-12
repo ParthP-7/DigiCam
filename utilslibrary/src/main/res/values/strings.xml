@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UtilsLibrary</string>
+
+    <!-- Return operation -->
+    <string name="back_pressed_message"> Exit the current operation?</string>
+    <!--Permission request-->
+    <string name="request_camera_permission"> Need camera permission</string>
+    <string name="request_storage_permission"> Requires storage permissions</string>
+    <string name="request_sound_permission"> Requires recording permission</string>
+
+    <string name="btn_dialog_cancel"> Cancel </string>
+    <string name="btn_dialog_ok"> OK</string>
+    <string name="music_selection"> Select music </string>
+</resources>

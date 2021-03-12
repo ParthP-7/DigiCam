@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">CameraLibrary</string>
+
+    <string name="delete_last_video_tips"> Delete the last video? </string>
+    <string name="btn_delete"> Delete </string>
+
+    <!-- Merge prompt -->
+
+    <!--Set text at the top-->
+    <string name="tv_flash"> Flash </string>
+    <string name="tv_time_lapse"> Time-lapse shooting </string>
+    <string name="tv_luminous_compensation"> Night shot fill light </string>
+    <string name="tv_edge_blur"> The border is blurred</string>
+    <string name="tv_camera_setting"> Camera settings</string>
+    <string name="tv_select_music"> Select music </string>
+    <string name="btn_stickers"> Effects </string>
+    <string name="btn_media"> Upload </string>
+
+    <!-- Filter page button -->
+    <string name="tab_preview_beauty"> Beauty </string>
+    <string name="tab_preview_makeup"> Beauty makeup</string>
+    <string name="tab_preview_filter"> Filter</string>
+
+    <!-- Beauty -->
+    <string-array name="preview_beauty">
+        <item>Microdermabrasion</item>
+        <item>Skin tone</item>
+        <item>Slim face</item>
+        <item>Shaved face</item>
+        <item>Small face</item>
+        <item>chin</item>
+        <item>Legal pattern</item>
+        <item>forehead</item>
+        <item>Big eyes</item>
+        <item>eye distance</item>
+        <item>corner of the eye</item>
+        <item>Lying silkworm</item>
+        <item>bag under the eyes</item>
+        <item>Bright eyes</item>
+        <item>Slim nose</item>
+        <item>Nose Wings</item>
+        <item>proboscis</item>
+        <item>mouth shape</item>
+        <item>Beautiful Teeth</item>
+    </string-array>
+
+    <!-- Beauty Makeup -->
+    <string-array name="preview_makeup">
+        <item>Lipstick</item>
+        <item>Blush</item>
+        <item>Shadow</item>
+        <item>Brows</item>
+        <item>eye shadow</item>
+        <item>eyeliner</item>
+        <item>Lashes</item>
+        <item>Double eyelids</item>
+        <item>Pupil</item>
+    </string-array>
+
+    <string name="tab_video_60s"> Recorder </string>
+
+    <!-- Recording speed -->
+    <string-array name="record_speed_texts">
+        <item>.25x</item>
+        <item>.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+
+    <!-- Special effects page parameters -->
+    <string name="preview_beauty_reset"> Restore the default </string>
+
+    <!-- Camera settings page -->
+    <string name="select_watermark"> Select watermark</string>
+    <string name="show_face_points"> Show the key points of the face</string>
+    <string name="hide_face_points"> Hide the key points of the face </string>
+    <string name="show_fps"> Display fps</string>
+    <string name="hide_fps"> Hide fps</string>
+
+</resources>

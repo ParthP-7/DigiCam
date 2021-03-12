@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaLibrary</string>
+
+    <string name="album_all"> All Videos </string>
+    <string name="media_empty"> No %1$s</string>
+    <string name="video_single_picker"> Single video </string>
+    <string name="video_multi_picker"> Multiple videos</string>
+
+</resources>

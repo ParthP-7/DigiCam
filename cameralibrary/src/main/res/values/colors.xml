@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- popup页面字体选中颜色 -->
+    <color name="popup_text_normal">#333333</color>
+    <color name="popup_text_color">@color/white</color>
+
+    <!-- 快门颜色 -->
+
+    <!-- 录制按钮颜色 -->
+    <color name="record_red">@color/red</color>
+    <color name="record_stroke_red">#66FF0000</color>
+
+    <!-- 特效选择页面背景颜色 -->
+    <color name="effect_content_background">#AA808080</color>
+</resources>

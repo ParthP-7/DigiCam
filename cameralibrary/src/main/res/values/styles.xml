@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- No Action Bar theme. -->
+    <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/video_window_background</item>
+        <item name="colorPrimaryDark">@color/video_window_background</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/video_window_background</item>
+    </style>
+
+    <!--  相机动画  -->
+
+    <!--  相机底部弹窗样式  -->
+
+    <!--  相机tab样式  -->
+    <style name="CameraTabTextStyle">
+        <item name="android:textSize">@dimen/dp16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

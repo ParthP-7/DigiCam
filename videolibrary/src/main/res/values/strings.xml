@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">VideoLibrary</string>
+
+    <string-array name="video_speed_texts">
+        <item>Slow</item>
+        <item>Standard</item>
+        <item>Quick</item>
+    </string-array>
+
+    <string name="video_crop_next">Next</string>
+    <string name="video_crop_selected_time"> Selected %1$d seconds</string>
+    <string name="video_crop_progress_tips"> Processing...</string>
+
+    <!-- Edit page -->
+    <string name="video_edit_back_press"> Return to the previous step will lose the current effect, whether to return </string>
+    <string name="video_edit_select_music"> Music </string>
+    <string name="video_edit_voice"> Voice</string>
+    <string name="video_edit_effect"> Transition </string>
+    <string name="video_edit_text"> Text </string>
+    <string name="video_edit_filter"> Filter</string>
+    <string name="video_edit_stickers"> Stickers</string>
+    <string name="video_edit_next">Next</string>
+    <string name="video_edit_cancel"> Cancel</string>
+    <string name="video_edit_save"> Save </string>
+    <!-- Sound control -->
+    <string name="video_voice_source"> Original sound</string>
+    <string name="video_voice_background"> Soundtrack</string>
+    <string name="video_cut_music_title"> Drag the sound spectrum left and right to cut the music</string>
+
+    <!-- Special effect prompt -->
+    <string name="video_edit_effect_hint"> After selecting the location, press and hold to use the effect</string>
+    <string name="video_edit_effect_cancel"> Cancellation</string>
+
+</resources>
